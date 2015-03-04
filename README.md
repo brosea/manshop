@@ -1,4 +1,4 @@
 manshop
 =======
 
-a app 
+A men's store application, including pushing, payment, commodity display, shopping cart, user management module.
